@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Nadeem Raja</h1>
 <h3 align="center">A passionate software engineer from Pakistan having good expertise in mobile application development.</h3>
 
-- 🌱 I’m currently learning **game development with flutter**
+- 🌱 I’m currently learning **advance kotlin concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Raja-Mohsin](https://github.com/Raja-Mohsin)
 
